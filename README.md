@@ -1,1 +1,3 @@
-# javascript-developer-pokedex
+# Trilha JS Developer - Pokedex
+
+ -Em andamento..
